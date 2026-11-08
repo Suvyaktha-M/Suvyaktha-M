@@ -1,6 +1,6 @@
 # Hey, I'm Suvyaktha! 👋
 
-### Computer Science Student | Developer | Lifelong Learner
+### Computer Science Student | Developer | Curious Learner
 
 💫 Curious about technology, passionate about building things, and always looking for something new to learn.
 
@@ -38,7 +38,6 @@ I'm a third-year B.Tech student specializing in Computer Science and Engineering
 
 **Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
@@ -56,7 +55,7 @@ I'm a third-year B.Tech student specializing in Computer Science and Engineering
 
 ### 🧠 Beyond Technology
 
-Apart from coding, I'm interested in psychology, AI research, quantum computing and exploring ideas across different fields.
+Apart from coding, I'm interested in psychology, AI research and exploring ideas across different fields.
 
 I enjoy learning things beyond my coursework and believe curiosity is one of the best tools a developer can have.
 
