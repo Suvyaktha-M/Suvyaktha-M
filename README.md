@@ -63,8 +63,6 @@ I enjoy learning things beyond my coursework and believe curiosity is one of the
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Suvyaktha-M&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Suvyaktha-M&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
